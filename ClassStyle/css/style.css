@@ -1,0 +1,35 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+html{
+    font-family: cursive;
+}
+.titulo{
+    color: blueviolet;
+}
+.parrafo{
+    font-size: 15px;
+    background-color: #5d9b;
+}
+#division{
+    color:#ff7987;
+}
+.nave-page li{
+    display: inline-block;
+    align-self: center;
+    margin: 2%;
+    padding: 2%;
+    border-radius: 50%;
+    background-color: #5d9b9b;
+}
+body{
+    border:solid goldenrod;
+    padding: 5%;
+}
+.list{
+    margin-top: 20px;
+    margin-left: 20px;
+    padding: 15px;
+}
